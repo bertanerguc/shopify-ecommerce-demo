@@ -5,7 +5,7 @@
 
 A comprehensive Shopify theme demonstrating advanced e-commerce analytics, customer behavior tracking, and performance optimization techniques.
 
-![Shopify Analytics Dashboard](screenshots/analytics-dashboard.png)
+![Shopify Analytics Dashboard](analytics-dashboard.png)
 
 ## 🎯 Project Overview
 
